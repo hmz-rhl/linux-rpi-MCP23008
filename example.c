@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "expander_i2c.h"
+#include "MCP23017.h"
 
 int main(){
   // on déclare une instance qui pilotera l'expander d'adresse 0x20
