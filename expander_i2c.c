@@ -7,7 +7,7 @@
  * @version 0.3
  * @date 2022-05-19
  * 
- * @copyright Saemload (c) 2022
+ * Licence Libre
  * 
  */
 
