@@ -1,5 +1,5 @@
 # rpi-MCP23017
-bibliothèque pour driver I2C GPIO expander(MCP23017S) sur Linux Rasberry Pi
+bibliothèque pour driver I2C GPIO expander(MCP23017) sur Linux Rasberry Pi
 
 # Dépendances
 Cette librairie utilise [WiringPi](https://github.com/WiringPi/WiringPi)
