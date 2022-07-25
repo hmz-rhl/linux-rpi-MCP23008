@@ -12,7 +12,7 @@
  */
 
 
-#include "expander_i2c.h"
+#include "MCP23017.h"
 
 #define Er_Ecriture -1
 #define Er_Lecture -2
