@@ -14,3 +14,5 @@ et ne pas oublier de libérer la mémoire en appelant
 ```
 expander_closeAndFree(expander_t e)
 ```
+# contact
+n'hésitez pas à me faire savoir d'éventuelle bug ou idée pour améliorer cette librairie
