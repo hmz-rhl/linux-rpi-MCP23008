@@ -8,11 +8,11 @@ Il faut instancier une variable de type expander_t en utilisant la fonction
 ```
 qui renvoie la structure créee
 
-Puis utiliser les fonction pour changer ou lire l'état des GPIO
+Puis utiliser les fonctions pour changer ou lire l'état des GPIO
 
 et ne pas oublier de libérer la mémoire en appelant
 ```
 expander_closeAndFree(expander_t e)
 ```
 # contact
-n'hésitez pas à me faire savoir d'éventuelle bug ou idée pour améliorer cette librairie
+n'hésitez pas à me faire savoir d'éventuels bugs ou idée pour améliorer cette librairie
