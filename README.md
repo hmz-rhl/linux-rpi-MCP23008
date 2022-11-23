@@ -1,9 +1,6 @@
 # rpi-MCP23008
 bibliothèque pour driver I2C GPIO expander(MCP23008) sur Linux Raspberry Pi
 
-# Dépendances
-Cette librairie utilise [WiringPi](https://github.com/WiringPi/WiringPi)
-
 # Utilisation
 Il faut instancier une variable de type expander_t en utilisant la fonction 
 ```
