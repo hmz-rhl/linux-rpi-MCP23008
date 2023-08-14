@@ -38,7 +38,7 @@
 expander_t* expander_init(uint8_t addr){
     if(addr > 0x27 || addr < 0x20 )
     {
-        printf("ERREUR %s : vous avez saisie 0x%02x\nOr addr doit etre entre 0x20 et 0x27 pour l'expander\n",__func__, addr);
+        printf(RED "ERREUR %s : vous avez saisie 0x%02x\nOr addr doit etre entre 0x20 et 0x27 pour l'expander\n" RESET,__func__, addr);
         //exit(EXIT_FAILURE);
         return NULL;
     }
